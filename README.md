@@ -145,7 +145,7 @@ the instance methods are called.
    the line that declares the variable `fido`:      
    `Dog fido = new Dog();`
 2. Press the debug button, then select the "Java Visualizer" tab.
-3. Press the "Step Over" icon to execute each line of code in the `main` method.
+3. Press the step-over button to execute each line of code in the `main` method.
 
 | Code                      | Java Visualizer                                                                                                                                     |
 |---------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
